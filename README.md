@@ -1,8 +1,4 @@
-Sure! Here's a `README.md` file that explains the **benefits of using TanStack Query** and includes an **installation guide** for setting up a project with **React**, **Vite**, and **TanStack Query**.
 
----
-
-````markdown
 # ⚛️ React + Vite + TanStack Query Starter
 
 A modern React project setup using **Vite** and **TanStack Query** (formerly React Query) to handle **powerful, declarative data fetching and caching** in your applications.
@@ -37,7 +33,7 @@ Follow these steps to set up a new project using **React**, **Vite**, and **TanS
 npm create vite@latest frontend -- --template react
 cd frontend
 npm install
-````
+```
 
 Or with Yarn:
 

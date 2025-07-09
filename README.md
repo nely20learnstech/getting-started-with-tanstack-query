@@ -19,6 +19,8 @@ TanStack Query is a powerful data-fetching library that solves many common probl
 - **Query invalidation**: Smart data synchronization after mutations (create/update/delete).
 - **Works well with SSR and React Native**.
 
+
+
 > 💡 **Ideal for apps** with API interactions, complex data flows, and performance-sensitive requirements.
 
 ---
